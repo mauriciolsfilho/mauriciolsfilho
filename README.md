@@ -1,4 +1,4 @@
-### Maurício Linhares de Souza Filho
+### Olá eu sou o Maurício Linhares de Souza Filho
 <div align="center">
   <a href="https://github.com/mauriciolsfilho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mauriciolsfilho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
